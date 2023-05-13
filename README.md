@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mykyta and I from Ukraine
-- 👀 I’m interested in AI, Mathematics, Sports and Neurobiology
-- 🌱 I’m currently learning Computer Vision Field in AI
+- 👋 Hi, I am Mykyta, and I am from Ukraine
+- 👀 I am interested in AI, Mathematics, Sports and Neuroscience
+- 🌱 I am currently researching mathematic optimisation for my Master's degree.
 - 📫 You can reach me in mail - lytovchenko.mykyta@gmail.com
